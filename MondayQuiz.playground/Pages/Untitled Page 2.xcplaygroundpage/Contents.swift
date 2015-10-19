@@ -11,6 +11,23 @@ Don't forget to call the function at the bottom
 */
 
 import Foundation
+Dictionary<String, Int>()
+
+
+func dictionary(String, Int++)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

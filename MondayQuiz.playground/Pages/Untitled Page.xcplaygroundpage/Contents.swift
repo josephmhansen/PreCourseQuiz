@@ -9,6 +9,16 @@ Don't forget to call the function at the bottom
 */
 
 import Foundation
+var isCoding = true
+
+if isCoding{
+    print("Dont bug me!")
+}
+else{
+   print("What's up?")
+}
+
+
 
 
 //: [Previous](@previous)

@@ -11,7 +11,16 @@ Print all of the properties. Unwrap the isStreetLegal optional. If it is street 
 */
 
 import Foundation
-
+class Car {
+    var make: String
+    var model:String
+    var year:Int
+    var topSpeed:Int
+    var isStreetLegal: Bool?
+    init(class)
+    
+    
+}
 
 
 
